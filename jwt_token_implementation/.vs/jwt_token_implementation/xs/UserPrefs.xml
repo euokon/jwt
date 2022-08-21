@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{04B0B090-067E-4CC4-87A3-DFF840E4AC62}|Default">
-  <MonoDevelop.Ide.ItemProperties.jwt__token__implementation FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jwt_token_implementation" expanded="True" selected="True">
+            <Node name="jwt_token_implementation" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.jwt__token__implementation PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
