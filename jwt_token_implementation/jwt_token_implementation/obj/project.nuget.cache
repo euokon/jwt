@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pdPuTM7z0cvmcWpCmAebfV4kwbSXJmW645ohm0fW9xEkFTJAO/sYN2LcjFqk5xNPO+sOaETmuwrIIw/pWkYrg==",
+  "success": true,
+  "projectFilePath": "/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/jwt_token_implementation.csproj",
+  "expectedPackageFiles": [
+    "/Users/euokon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
