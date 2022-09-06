@@ -1,11 +1,26 @@
 ﻿<Properties StartupConfiguration="{04B0B090-067E-4CC4-87A3-DFF840E4AC62}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="jwt_token_implementation/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="jwt_token_implementation/appsettings.json" Line="17" Column="1" />
+      <File FileName="jwt_token_implementation/Program.cs" Line="36" Column="68" />
+      <File FileName="jwt_token_implementation/Models/UserData.cs" Line="50" Column="11" />
+      <File FileName="jwt_token_implementation/Models/UserModel.cs" Line="26" Column="6" />
+      <File FileName="jwt_token_implementation/Services/AuthenticationService.cs" Line="21" Column="64" />
+      <File FileName="jwt_token_implementation/Controllers/UserController.cs" Line="22" Column="32" />
+      <File FileName="jwt_token_implementation/Controllers/WeatherForecastController.cs" Line="1" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="jwt_token_implementation" expanded="True" selected="True">
-            <Node name="jwt_token_implementation" expanded="True" />
+          <Node name="jwt_token_implementation" expanded="True">
+            <Node name="jwt_token_implementation" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -14,10 +29,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.jwt__token__implementation PreferredExecutionTarget="/Applications/Safari.app" FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.jwt__token__implementation PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
