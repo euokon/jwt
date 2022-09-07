@@ -8,11 +8,31 @@
     ".NETCoreApp,Version=v6.0": {
       "jwt_token_implementation/1.0.0": {
         "dependencies": {
+          "AWSSDK.ElasticBeanstalk": "3.7.0.200",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.8",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
           "jwt_token_implementation.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.12.29": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.12.29"
+          }
+        }
+      },
+      "AWSSDK.ElasticBeanstalk/3.7.0.200": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.12.29"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.200"
+          }
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.8": {
@@ -150,6 +170,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AWSSDK.Core/3.7.12.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bxSbEjbCyAzjmUpxVKXiQhkXEvb3w9OHL7AOL9LItY1f5xLB9/qbtHoi5FvmZXTPPi2RahPJr9fDyHMLwQnxiA==",
+      "path": "awssdk.core/3.7.12.29",
+      "hashPath": "awssdk.core.3.7.12.29.nupkg.sha512"
+    },
+    "AWSSDK.ElasticBeanstalk/3.7.0.200": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SjERQFKZTDFROwbAYjjQ9qYi0ygtVITPn83PnzF/lXOYJMb/6rU/re/tUY0JyLx/L3YLZJXYrgyzYer+dsedKg==",
+      "path": "awssdk.elasticbeanstalk/3.7.0.200",
+      "hashPath": "awssdk.elasticbeanstalk.3.7.0.200.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.8": {
       "type": "package",

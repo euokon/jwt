@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7JqTYPMIbdMzWY0YosFiRrbr7I7WRCFhaxRtpGnWcxdDLvVyPxloULAMAhR5jqFPE0PooDRU6sJCf6lpOjr8Ug==",
+  "dgSpecHash": "vYj+qjMDpCZmZtKBx7BHxcjxdl00aCq0w1Y37wzNwKAvVONC8bol50tAhG9a1LqQ2Jmfy8yIURiU/sTE3icUeg==",
   "success": true,
   "projectFilePath": "/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/jwt_token_implementation.csproj",
   "expectedPackageFiles": [
+    "/Users/euokon/.nuget/packages/awssdk.core/3.7.12.29/awssdk.core.3.7.12.29.nupkg.sha512",
+    "/Users/euokon/.nuget/packages/awssdk.elasticbeanstalk/3.7.0.200/awssdk.elasticbeanstalk.3.7.0.200.nupkg.sha512",
     "/Users/euokon/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.8/microsoft.aspnetcore.authentication.jwtbearer.6.0.8.nupkg.sha512",
     "/Users/euokon/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/euokon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

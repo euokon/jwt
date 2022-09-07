@@ -32,3 +32,6 @@
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Release/net6.0/jwt_token_implementation.pdb
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Release/net6.0/jwt_token_implementation.genruntimeconfig.cache
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Release/net6.0/ref/jwt_token_implementation.dll
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Release/net6.0/AWSSDK.Core.dll
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Release/net6.0/AWSSDK.ElasticBeanstalk.dll
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Release/net6.0/aws-windows-deployment-manifest.json

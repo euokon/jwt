@@ -1,10 +1,13 @@
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/appsettings.Development.json
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/appsettings.json
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/aws-windows-deployment-manifest.json
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/jwt_token_implementation
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/jwt_token_implementation.deps.json
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/jwt_token_implementation.runtimeconfig.json
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/jwt_token_implementation.dll
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/jwt_token_implementation.pdb
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/AWSSDK.Core.dll
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/AWSSDK.ElasticBeanstalk.dll
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll

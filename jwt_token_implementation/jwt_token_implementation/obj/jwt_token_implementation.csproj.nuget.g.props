@@ -18,5 +18,7 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">/Users/euokon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">/Users/euokon/.nuget/packages/awssdk.core/3.7.12.29</PkgAWSSDK_Core>
+    <PkgAWSSDK_ElasticBeanstalk Condition=" '$(PkgAWSSDK_ElasticBeanstalk)' == '' ">/Users/euokon/.nuget/packages/awssdk.elasticbeanstalk/3.7.0.200</PkgAWSSDK_ElasticBeanstalk>
   </PropertyGroup>
 </Project>

@@ -2,6 +2,27 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "AWSSDK.Core/3.7.12.29": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.ElasticBeanstalk/3.7.0.200": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.12.29, 4.0.0)"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.8": {
         "type": "package",
         "dependencies": {
@@ -189,6 +210,58 @@
     }
   },
   "libraries": {
+    "AWSSDK.Core/3.7.12.29": {
+      "sha512": "bxSbEjbCyAzjmUpxVKXiQhkXEvb3w9OHL7AOL9LItY1f5xLB9/qbtHoi5FvmZXTPPi2RahPJr9fDyHMLwQnxiA==",
+      "type": "package",
+      "path": "awssdk.core/3.7.12.29",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.12.29.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.ElasticBeanstalk/3.7.0.200": {
+      "sha512": "SjERQFKZTDFROwbAYjjQ9qYi0ygtVITPn83PnzF/lXOYJMb/6rU/re/tUY0JyLx/L3YLZJXYrgyzYer+dsedKg==",
+      "type": "package",
+      "path": "awssdk.elasticbeanstalk/3.7.0.200",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.ElasticBeanstalk.CodeAnalysis.dll",
+        "awssdk.elasticbeanstalk.3.7.0.200.nupkg.sha512",
+        "awssdk.elasticbeanstalk.nuspec",
+        "lib/net35/AWSSDK.ElasticBeanstalk.dll",
+        "lib/net35/AWSSDK.ElasticBeanstalk.pdb",
+        "lib/net35/AWSSDK.ElasticBeanstalk.xml",
+        "lib/net45/AWSSDK.ElasticBeanstalk.dll",
+        "lib/net45/AWSSDK.ElasticBeanstalk.pdb",
+        "lib/net45/AWSSDK.ElasticBeanstalk.xml",
+        "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.dll",
+        "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.pdb",
+        "lib/netcoreapp3.1/AWSSDK.ElasticBeanstalk.xml",
+        "lib/netstandard2.0/AWSSDK.ElasticBeanstalk.dll",
+        "lib/netstandard2.0/AWSSDK.ElasticBeanstalk.pdb",
+        "lib/netstandard2.0/AWSSDK.ElasticBeanstalk.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
     "Microsoft.AspNetCore.Authentication.JwtBearer/6.0.8": {
       "sha512": "ktmldryRkyAMRQpluCZaltRvlcOrlE9SQDmnMOh+XTbck6Vi296UjvwdJb4ULU6PgvZh5j00KAp7uhjpcWQopA==",
       "type": "package",
@@ -577,6 +650,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AWSSDK.ElasticBeanstalk >= 3.7.0.200",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.8",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -618,6 +692,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "AWSSDK.ElasticBeanstalk": {
+            "target": "Package",
+            "version": "[3.7.0.200, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[6.0.8, )"

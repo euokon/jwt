@@ -1,10 +1,13 @@
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/jwt_token_implementation
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/appsettings.Development.json
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/appsettings.json
+/Users/euokon/Documents/Projects/Published_Apps/jwt_app/aws-windows-deployment-manifest.json
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/jwt_token_implementation.dll
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/jwt_token_implementation.deps.json
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/jwt_token_implementation.runtimeconfig.json
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/jwt_token_implementation.pdb
+/Users/euokon/Documents/Projects/Published_Apps/jwt_app/AWSSDK.Core.dll
+/Users/euokon/Documents/Projects/Published_Apps/jwt_app/AWSSDK.ElasticBeanstalk.dll
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/euokon/Documents/Projects/Published_Apps/jwt_app/Microsoft.IdentityModel.Logging.dll

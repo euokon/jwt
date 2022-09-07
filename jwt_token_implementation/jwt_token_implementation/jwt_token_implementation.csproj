@@ -9,12 +9,14 @@
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.8" />
+    <PackageReference Include="AWSSDK.ElasticBeanstalk" Version="3.7.0.200" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
     <None Remove="Models\" />
     <None Remove="Services\" />
+    <None Remove="AWSSDK.ElasticBeanstalk" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
