@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aEsVBCXaiUACaGyxlxAL5y8XkRZ8hhlizmqj/5yMTSw=",
+  "Source": "jwt_token_implementation",
+  "BasePath": "_content/jwt_token_implementation",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
