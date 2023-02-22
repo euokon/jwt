@@ -35,3 +35,8 @@
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/jwt_token_implementation.pdb
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/jwt_token_implementation.genruntimeconfig.cache
 /Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/ref/jwt_token_implementation.dll
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/staticwebassets/msbuild.jwt_token_implementation.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/staticwebassets/msbuild.build.jwt_token_implementation.props
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.jwt_token_implementation.props
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.jwt_token_implementation.props
+/Users/euokon/Documents/GitHub/jwt/jwt_token_implementation/jwt_token_implementation/obj/Debug/net6.0/staticwebassets.pack.json
